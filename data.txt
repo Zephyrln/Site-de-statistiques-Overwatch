@@ -1,0 +1,338 @@
+Suravasa|Victoire|D.va|Vital
+Busan|Défaite|Zarya|Moira
+Rialto|Défaite|D.va|Ana
+Kings Row|Victoire|D.va|Ana
+Péninsule Antartique|Victoire|Reinhardt|Ana
+Kings Row|Défaite|Zarya|Moira
+Tour de Lijiang|Victoire|Domina|Vital
+Midtown|Victoire|Domina|Vital
+Circuit Royal|Défaite|Zarya|Ana
+Eichenwalde|Défaite|Reinhardt|Kiriko
+Runasapi|Victoire|Wuyang|Vital
+Havane|Victoire|Zarya|Vital
+Kings Row|Défaite|Zarya|Vital
+Tour de Lijiang|Victoire|Orisa|Vital
+Colosseo|Défaite|Reinhardt|Ana
+Midtown|Victoire|Domina|Vital
+Busan|Défaite|D.va|Vital
+Route 66|Défaite|Sigma|Vital
+Colosseo|Victoire|Danger|Vital
+Kings Row|Victoire|Sigma|Vital
+Kings Row|Victoire|Tracer|Ana
+Tour de Lijiang|Défaite|Anran|Moira
+Ilios|Victoire|Tracer|Vital
+Runasapi|Défaite|Sombra|Vital
+Hollywood|Victoire|Tracer|Ana
+Monastère Shambali|Défaite|Cassidy|Vital
+Colosseo|Victoire|Anran|Vital
+Busan|Victoire|Tracer|Vital
+Blizzard World|Victoire|Tracer|Kiriko
+Oasis|Victoire|Tracer|Kiriko
+Observatoire Gibraltar|Défaite|Anran|Zenyatta
+Esperança|Défaite|Tracer|Kiriko
+Eichenwalde|Victoire|Sierra|Vital
+Hollywood|Victoire|Sierra|Ana
+Tour de Lijiang|Défaite|Tracer|Vital
+Paraiso|Victoire|Anran|Kiriko
+Kings Row|Victoire|Sombra|Ana
+Havane|Défaite|Sierra|Ange
+Route 66|Victoire|Cassidy|Ana
+Kings Row|Victoire|Genji|Ana
+Tour de Lijiang|Défaite|Anran|Moira
+Esperança|Défaite|Anran|Vital
+Circuit Royal|Défaite|Sierra|Vital
+Midtown|Victoire|Tracer|Vital
+Eichenwalde|Victoire|Tracer|Vital
+Runasapi|Défaite|Anran|Vital
+Suravasa|Victoire|Sierra|Vital
+Numbani|Défaite|Genji|Baptiste
+Kings Row|Victoire|Cassidy|Zenyatta
+Hollywood|Défaite|Tracer|Ana
+Rialto|Défaite|Tracer|Kiriko
+Samoa|Défaite|D.va|Mizuki
+Circuit Royal|Victoire|Domina|Mizuki
+New Queen Street|Victoire|Reine des Junkers|Mizuki
+Hollywood|Victoire|Domina|Mizuki
+Tour de Lijiang|Défaite|Zarya|Mizuki
+Colosseo|Défaite|Domina|Mizuki
+New Junk City|Défaite|Domina|Mizuki
+New Queen Street|Défaite|Jetpack Cat|Mizuki
+Busan|Victoire|Genji|Mizuki
+Kings Row|Victoire|Genji|Mizuki
+Havane|Victoire|Genji|Kiriko
+Népal|Victoire|Genji|Mizuki
+Kings Row|Défaite|Ashe|Ange
+Havane|Défaite|Genji|Ana
+Junkertown|Défaite|Tracer|Mizuki
+Midtown|Victoire|Tracer|Vital
+Rialto|Défaite|Hanzo|Ange
+Circuit Royal|Victoire|Cassidy|Mizuki
+Eichenwalde|Défaite|Genji|Ana
+Kings Row|Victoire|Sierra|Vital
+Colosseo|Victoire|Sierra|Vital
+Péninsule Antartique|Défaite|Hanzo|Vital
+Népal|Victoire|Sierra|Vital
+Tour de Lijiang|Victoire|Domina|Mizuki
+New Queen Street|Défaite|Reine des Junkers|Mizuki
+Suravasa|Victoire|D.va|Kiriko
+Kings Row|Défaite|D.va|Ana
+Népal|Défaite|Sigma|Mizuki
+Kings Row|Victoire|Sigma|Mizuki
+Esperança|Défaite|Mizuki|Zarya
+Suravasa|Victoire|Zarya|Vital
+Eichenwalde|Victoire|D.va|Moira
+Route 66|Victoire|Ana|Domina
+Esperança|Défaite|Ana|Domina
+Blizzard World|Victoire|Jetpack Cat|Ashe
+Péninsule Antartique|Victoire|Wuyang|Ana
+Junkertown|Défaite|Jetpack Cat|Mizuki
+Numbani|Défaite|Jetpack Cat|Mizuki
+Blizzard World|Victoire|Domina|Mizuki
+New Queen Street|Victoire|Jetpack Cat|Emre
+Colosseo|Défaite|Kiriko|Mizuki
+Kings Row|Défaite|Reinhardt|Mizuki
+Suravasa|Victoire|Domina|Mizuki
+Eichenwalde|Défaite|Kiriko|Ana
+Blizzard World|Défaite|Sigma|Mizuki
+Colosseo|Victoire|Danger|Moira
+Samoa|Victoire|Danger|Emre
+Havane|Défaite|Zarya|Moira
+Tour de Lijiang|Défaite|Danger|Mizuki
+Monastère Shambali|Victoire|Domina|Mizuki
+Route 66|Victoire|Domina|Mizuki
+Kings Row|Défaite|Domina|Kiriko
+Havane|Victoire|Reine des Junkers|Kiriko
+Oasis|Victoire|Danger|Mizuki
+Samoa|Victoire|Reine des Junkers|Ana
+Route 66|Défaite|Danger|Kiriko
+Ilios|Victoire|Danger|Mizuki
+Colosseo|Victoire|Danger|Mizuki
+Eichenwalde|Défaite|Mizuki|Zarya
+Junkertown|Victoire|Domina|Ana
+Eichenwalde|Victoire|Sombra|Shion
+Népal|Défaite|Shion|Sojourn
+Kings Row|Victoire|Shion|Mei
+Circuit Royal|Défaite|Venture|Sojourn
+Ilios|Défaite|Sierra|Vital
+Hollywood|Victoire|Kiriko|Ana
+Suravasa|Victoire|Domina|Ana
+Route 66|Défaite|Kiriko|Domina
+Neon Junction|Victoire|Reinhardt|Ana
+Runasapi|Défaite|Sombra|Vital
+Blizzard World|Victoire|Sierra|Mizuki
+Monastère Shambali|Défaite|Sierra|Mizuki
+Route 66|Victoire|Shion|Kiriko
+Junkertown|Victoire|Sierra|Vital
+Runasapi|Défaite|Shion|Kiriko
+Péninsule Antartique|Défaite|Tracer|Vital
+Circuit Royal|Défaite|Domina|Ana
+Monastère Shambali|Victoire|Domina|Ana
+Suravasa|Victoire|Tracer|Mizuki
+Tour de Lijiang|Défaite|Tracer|Mizuki
+Midtown|Défaite|Cassidy|Mizuki
+Circuit Royal|Défaite|Sombra|Ana
+Aatlis|Victoire|Emre|Mizuki
+Ilios|Victoire|Tracer|Ana
+Observatoire Gibraltar|Défaite|Tracer|Ana
+Eichenwalde|Défaite|Sierra|Ana
+Népal|Défaite|Sojourn|Ana
+Rialto|Victoire|Emre|Kiriko
+Blizzard World|Défaite|Faucheur|Vital
+Ilios|Victoire|Sombra|Vital
+Tour de Lijiang|Défaite|Tracer|Mizuki
+Monastère Shambali|Victoire|Domina|Mizuki
+Péninsule Antartique|Victoire|Domina|Vital
+Kings Row|Défaite|Domina|Ana
+Népal|Défaite|Domina|Ana
+Busan|Victoire|Domina|Ana
+Observatoire Gibraltar|Victoire|Domina|Vital
+Neon Junction|Défaite|Domina|Ana
+Népal|Victoire|Zarya|Vital
+Runasapi|Victoire|Domina|Mizuki
+Rialto|Victoire|Domina|Ana
+Oasis|Défaite|Domina|Vital
+Suravasa|Victoire|Domina|Mizuki
+Samoa|Défaite|Domina|Mizuki
+Kings Row|Victoire|Domina|Vital
+Népal|Victoire|Domina|Vital
+Hollywood|Défaite|Kiriko|Ashe
+Dorado|Défaite|Zarya|Ana
+Havane|Défaite|Domina|Vital
+Midtown|Défaite|Zarya|Ana
+Havane|Défaite|Anran|Ana
+Route 66|Défaite|Anran|Moira
+Tour de Lijiang|Défaite|Domina|Ana
+Aatlis|Victoire|Domina|Vital
+Busan|Victoire|Domina|Vital
+Blizzard World|Victoire|Domina|Vital
+Népal|Victoire|Domina|Vital
+Eichenwalde|Victoire|Domina|Ana
+Péninsule Antartique|Victoire|Domina|Vital
+Hollywood|Victoire|Domina|Vital
+Ilios|Défaite|Domina|Vital
+Oasis|Victoire|Domina|Vital
+Suravasa|Victoire|Domina|Vital
+Observatoire Gibraltar|Victoire|Domina|Vital
+Circuit Royal|Victoire|Domina|Vital
+Eichenwalde|Victoire|Domina|Vital
+Ilios|Défaite|Domina|Vital
+Neon Junction|Défaite|Domina|Vital
+Aatlis|Défaite|Domina|Vital
+Blizzard World|Victoire|Domina|Vital
+New Queen Street|Défaite|Zarya|Kiriko
+Samoa|Défaite|Domina|Mizuki
+Dorado|Victoire|Domina|Vital
+Havane|Victoire|Domina|Vital
+Route 66|Défaite|Domina|Vital
+Suravasa|Victoire|Domina|Vital
+Midtown|Défaite|Domina|Vital
+Samoa|Défaite|Domina|Vital
+Neon Junction|Victoire|Domina|Vital
+Runasapi|Défaite|Domina|Vital
+Junkertown|Victoire|Domina|Vital
+Kings Row|Défaite|Sigma|Vital
+Runasapi|Victoire|Zarya|Ana
+Havane|Victoire|Domina|Vital
+Eichenwalde|Victoire|Venture|Vital
+Colosseo|Victoire|Anran|Vital
+Tour de Lijiang|Défaite|Domina|Vital
+Havane|Défaite|Domina|Vital
+Esperança|Victoire|Anran|Ange
+Kings Row|Défaite|Anran|Vital
+Hollywood|Victoire|Anran|Vital
+Dorado|Victoire|Anran|Ana
+Oasis|Défaite|Sierra|Mizuki
+Runasapi|Défaite|Anran|Kiriko
+Busan|Victoire|Anran|Vital
+Rialto|Défaite|Anran|Ana
+Kings Row|Défaite|Anran|Ana
+Observatoire Gibraltar|Défaite|Illari|Ana
+Paraiso|Défaite|Wuyang|Ashe
+Circuit Royal|Défaite|Sierra|Zenyatta
+Oasis|Défaite|Venture|Moira
+Dorado|Défaite|Cassidy|Moira
+Samoa|Défaite|Anran|Kiriko
+Midtown|Défaite|Jetpack Cat|Ashe
+Monastère Shambali|Défaite|Wuyang|Sojourn
+Esperança|Victoire|Juno|Vital
+Neon Junction|Victoire|Juno|Emre
+Rialto|Victoire|Jetpack Cat|Emre
+New Queen Street|Victoire|Sombra|Vital
+Tour de Lijiang|Défaite|Sombra|Vital
+Busan|Victoire|Cassidy|Ana
+Circuit Royal|Victoire|Cassidy|Ana
+Numbani|Défaite|Juno|Ashe
+Colosseo|Victoire|Juno|Ana
+Suravasa|Victoire|Sombra|Vital
+Havane|Défaite|Mizuki|Ashe
+Eichenwalde|Défaite|Ana|Mei
+Tour de Lijiang|Défaite|Cassidy|Kiriko
+Dorado|Victoire|Juno|Ana
+Junkertown|Victoire|Juno|Sombra
+Neon Junction|Victoire|Kiriko|Ashe
+New Junk City|Victoire|Ana|Vital
+Circuit Royal|Victoire|Anran|Vital
+Suravasa|Défaite|Cassidy|Moira
+Dorado|Défaite|Ana|Ange
+Busan|Victoire|Sierra|Vital
+Rialto|Défaite|Genji|Ana
+Samoa|Victoire|Mizuki|Kiriko
+Observatoire Gibraltar|Défaite|Anran|Vital
+Oasis|Victoire|Anran|Vital
+Midtown|Victoire|Juno|Emre
+Havane|Défaite|Sierra|Vital
+Circuit Royal|Victoire|Mizuki|Ana
+Suravasa|Défaite|Anran|Ana
+Ilios|Défaite|Cassidy|Vital
+Havane|Défaite|Sojourn|Vital
+Colosseo|Victoire|Soldat : 76|Vital
+Hollywood|Victoire|Cassidy|Vital
+Circuit Royal|Défaite|Anran|Ana
+Monastère Shambali|Défaite|Cassidy|Vital
+Junkertown|Victoire|Domina|Ana
+Rialto|Victoire|Domina|Ana
+Observatoire Gibraltar|Défaite|Emre|Moira
+Aatlis|Défaite|Domina|Vital
+Eichenwalde|Victoire|Domina|Vital
+Numbani|Victoire|Domina|Vital
+Rialto|Victoire|Domina|Vital
+Ilios|Victoire|Domina|Vital
+Oasis|Défaite|Domina|Vital
+Midtown|Victoire|Domina|Juno
+Tour de Lijiang|Défaite|Zarya|Ana
+Colosseo|Victoire|Zarya|Vital
+Dorado|Victoire|Domina|Vital
+Hollywood|Victoire|Domina|Vital
+Eichenwalde|Défaite|Domina|Vital
+Blizzard World|Victoire|Domina|Vital
+Havane|Victoire|Domina|Vital
+Esperança|Victoire|Zarya|Kiriko
+Route 66|Victoire|Zarya|Vital
+Aatlis|Défaite|Zarya|Vital
+Dorado|Victoire|Domina|Vital
+Tour de Lijiang|Défaite|Zarya|Vital
+Népal|Victoire|Domina|Vital
+Neon Junction|Victoire|Domina|Vital
+Blizzard World|Défaite|Domina|Vital
+Havane|Victoire|Zarya|Ana
+Kings Row|Victoire|Anran|Vital
+Eichenwalde|Victoire|Domina|Vital
+Tour de Lijiang|Défaite|Domina|Jetpack Cat
+Rialto|Défaite|Anran|Vital
+Kings Row|Victoire|Domina|Vital
+Ilios|Victoire|Domina|Vital
+Route 66|Victoire|Domina|Vital
+Esperança|Défaite|Domina|Vital
+Oasis|Victoire|Domina|Ana
+Junkertown|Victoire|Domina|Vital
+Hollywood|Défaite|Domina|Vital
+Route 66|Défaite|Domina|Moira
+Dorado|Défaite|Domina|Vital
+Suravasa|Victoire|Domina|Vital
+Esperança|Défaite|Domina|Vital
+Rialto|Victoire|Domina|Vital
+Hollywood|Victoire|Domina|Vital
+Neon Junction|Victoire|Domina|Vital
+Colosseo|Défaite|Domina|Ana
+Circuit Royal|Victoire|Domina|Vital
+Eichenwalde|Défaite|Domina|Vital
+Ilios|Victoire|Domina|Vital
+Rialto|Victoire|Domina|Vital
+Colosseo|Défaite|Domina|Ana
+Tour de Lijiang|Défaite|Domina|Ana
+Hollywood|Victoire|Domina|Vital
+Monastère Shambali|Victoire|Domina|Vital
+Ilios|Défaite|Zarya|Vital
+Hollywood|Victoire|Domina|Vital
+Tour de Lijiang|Défaite|Reine des Junkers|Vital
+Midtown|Victoire|Domina|Vital
+Eichenwalde|Défaite|Domina|Vital
+Runasapi|Victoire|Domina|Mizuki
+New Queen Street|Défaite|Zarya|Mizuki
+Dorado|Victoire|Domina|Ana
+Neon Junction|Défaite|Zarya|Vital
+Circuit Royal|Victoire|Domina|Vital
+Oasis|Défaite|Cassidy|Mizuki
+Aatlis|Défaite|Sigma|Vital
+Péninsule Antartique|Défaite|Reinhardt|Vital
+Neon Junction|Victoire|Domina|Vital
+Rialto|Victoire|Zarya|Vital
+Kings Row|Victoire|Domina|Vital
+Népal|Victoire|Ramattra|Ana
+Numbani|Défaite|Jetpack Cat|Vital
+Runasapi|Victoire|Mizuki|Vital
+Busan|Défaite|Mizuki|Sombra
+Kings Row|Victoire|Domina|Ana
+Neon Junction|Défaite|Domina|Vital
+Eichenwalde|Victoire|Zarya|Vital
+Hollywood|Défaite|Chopper|Ana
+Kings Row|Victoire|Ramattra|Ana
+Runasapi|Victoire|Zarya|Mizuki
+Rialto|Défaite|Juno|Soldat 76
+Hollywood|Victoire|Domina|Mizuki
+Péninsule Antartique|Victoire|Mizuki|Ana
+Paraiso|Défaite|Wuyang|Vital
+Midtown|Défaite|Domina|Vital
+Péninsule Antartique|Défaite|Zarya|Vital
+Ilios|Défaite|Domina|Kiriko
+Circuit Royal|Défaite|Ana|Mizuki
